@@ -1,3 +1,4 @@
 name: "Gary"
 matches: 
-- paper
+- rock
+- scissors
