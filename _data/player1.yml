@@ -1,3 +1,4 @@
 name: "Gopal"
 matches:
-- scissors
+- rock
+- paper
